@@ -6,7 +6,7 @@
 ##### Our main motive is to build a product that will help the mute community to live their life with more ease. So being in the digital era everyone uses a smartphone in their day-to-day life, so why not use this smartphone as a tool for communication for the mute community as well? Thus with this application, we intend to create a two-way communication channel that allows everyone to communicate freely and express their thoughts without knowing the sign language.
 
 ### Project Design
-![Process Diagram](https://github.com/dnyanesh26/Signgenix/tree/main/assests/flow_diagram.png)
+(https://github.com/dnyanesh26/Signgenix/tree/main/assests/flow_diagram.png)
 
 
 ### Tech Stack
@@ -28,9 +28,9 @@
 ##### Without an attractive User Interface and Main Menu, the Application is not complete. We added a menu page. From there, we can navigate different features. The buttons were attached with above-mentioned functionalities.
 
 ### Results
-![SS1](https://github.com/dnyanesh26/Signgenix/tree/main/assests/output_1.png)
+(https://github.com/dnyanesh26/Signgenix/tree/main/assests/output_1.png)
 
-![SS2](https://github.com/dnyanesh26/Signgenix/tree/main/assests/output_2.png)
+(https://github.com/dnyanesh26/Signgenix/tree/main/assests/output_2.png)
 
 
 
